@@ -1,1 +1,3 @@
-# my-journey-in-web-design
+# README
+
+Welcome to your project! Add your documentation here.

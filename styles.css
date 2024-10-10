@@ -1,0 +1,19 @@
+h1 {
+  font-family: "My Journey" !important;
+  font-size: 40px !important;
+  margin-bottom: 30px !important;
+  text-align: center !important;
+  color: #ff9933 !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+}
+p {
+  color: orange;
+  margin: 15px;
+  font-size: 25px;
+  background-color: black;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
